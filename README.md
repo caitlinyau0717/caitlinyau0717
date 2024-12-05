@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 I am a student at Rensselaer Polytechnic Institute, majoring in Computer Science and minoring in Information Technology and Web Sciences. Additionally, I have a certification in the Foundations of Machine Learning granted by Cornell University. I am also a Break Through Tech AI Fellow at Cornell Tech. 
 
