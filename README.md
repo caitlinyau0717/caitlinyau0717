@@ -1,8 +1,8 @@
 ## Hi!
 
-I am a student at Rensselaer Polytechnic Institute, majoring in Computer Science and minoring in Information Technology and Web Sciences. Additionally, I have a certification in the Foundations of Machine Learning granted by Cornell University. I am also a Break Through Tech AI Fellow at Cornell Tech. 
+Currently, I am a Web Design/Developer intern at SheBytes, a new startup with a mission to empower women in tech. I am also a student at Rensselaer Polytechnic Institute, majoring in Computer Science and minoring in Information Technology and Web Sciences. Additionally, I have a certification in the Foundations of Machine Learning granted by Cornell University. I was previously a Break Through Tech AI Fellow at Cornell Tech. 
 
-I previously worked with Break Through Tech AI in collaboration with Google on a Machine Learning project to analyze Google search trends and understand how interest in these topics varies across time and location. I utilized Google Trends and Google colab to collect and analyze search term data, and then make time series predictions using various machine learning models including Random Forest and SARIMA. 
+I previously worked with Break Through Tech AI in collaboration with Google on a Machine Learning project to analyze Google search trends and understand how interest in these topics varies across time and location. I utilized Google Trends and Google Colab to collect and analyze search term data, and then make time series predictions using various machine learning models, including Random Forest and SARIMA. 
 
 <!--
 **caitlinyau0717/caitlinyau0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
